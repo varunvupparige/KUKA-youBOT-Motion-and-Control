@@ -17,4 +17,4 @@ In this project, a control algorithm is constructed to plan a trajectory, simula
 ![](Results/Error_Conv_Plot_2.jpg)
 ![](Results/Error_Conv_Plot_3.jpg)
 
-- ### Please check /Videos for visualization of KUKA youBOT in the Coppelia Sim.
+- ### Please check videos for visualization of KUKA youBOT in the Coppelia Sim.
